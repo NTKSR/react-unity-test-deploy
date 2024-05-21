@@ -2,7 +2,7 @@
   "name": "react-unity-test",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://NTKSR.github.io/react-unity-test-deploy/",
+  "homepage": "https://ntksr.github.io/react-unity-test-deploy/",
   "type": "module",
   "scripts": {
     "dev": "vite",
